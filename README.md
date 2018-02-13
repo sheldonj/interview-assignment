@@ -6,12 +6,18 @@ Please fork this repository and add any relevant information to this README file
 
 ### Work / Project Examples
 
-Provide up to **three** examples of work/projects that you've recently participated in, and provide detailed information about your role and contributions to the project. 
+Provide up to **three** examples of work/projects that you've recently participated in, and provide detailed information about your role and contributions to the project.
 
-### Inspiration 
+### Inspiration
 
-Provide up to **three** examples of technical work that has recently inspired you. These can be open source projects, codepens, blog posts, etc. Make sure to include specifics on what you found inspiring. 
+Provide up to **three** examples of technical work that has recently inspired you. These can be open source projects, codepens, blog posts, etc. Make sure to include specifics on what you found inspiring.
 
 ### Focus
 
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Write a little about what how you would spend your time.
+
+### Code Challenge
+
+Please fork the following codepen example, follow the instructions and do your best to complete the challenge. Please be prepared to walk through your solution and explain your rationale.
+
+https://codepen.io/criticalmass/pen/BYyMwK
