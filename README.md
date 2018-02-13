@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Please fork this repository and add any relevent information to this README file. Feel free to include any resources along with your repository that you are comfortable sharing (code snippets, working applications, etc). When you are finished please submit a link to your fork along with the rest of your application.
+Please fork this repository and add any relevant information to this README file. Feel free to include any resources along with your repository that you are comfortable sharing (code snippets, working applications, etc). When you are finished please submit a link to your fork along with the rest of your application.
 
 ### Work / Project Examples
 
