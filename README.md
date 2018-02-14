@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Start by reading through this file and complete the tasks outlined below. Feel free to include any resources along with your repository that you are comfortable sharing (code snippets, working applications, etc). When you are finished, You will need to create a new repository on your own GitHub account and commit the completed `README.md file. Please submit the link to the repository to <LEARNING CONTACT>.
+Start by reading through this file and complete the tasks outlined below. Feel free to include any resources along with your repository that you are comfortable sharing (code snippets, working applications, etc). When you are finished, You will need to create a new repository on your own GitHub account and commit the completed `README.md` file. Please submit the link to the repository to <LEARNING CONTACT>.
 
 ### Work / Project Examples
 
